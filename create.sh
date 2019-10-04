@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Script appelé par le script auto.sh qui permet de créer un utilisateur et nommer la machine. Partie du projet3
+# Victor DE FARIA - Octobre 2019
 
 create()
 {
