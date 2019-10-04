@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Script appelé par auto.sh permettant de supprimer un utilisateur . Partie du projet 3
+# Victor DE FARIA - Octobre 2019
 
 supprime()
 {
